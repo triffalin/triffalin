@@ -13,7 +13,10 @@
 - <b>Dicee Game Website (HTML, CSS + JS)</b>
   - [Dicee Game Website](https://triffalin.github.io/diceegame/)
 - <b>Rock Paper and Scissors Game(HTML, CSS + JS)</b>
-  - [Rock Paper and Scissors Game Website](https://triffalin.github.io/rpas/)  
+  - [Rock Paper and Scissors Game Website](https://triffalin.github.io/rpas/)
+- <b>Drum Kit Music Website (HTML, CSS + JS)</b>
+  - [Drum Kit Music Website](https://triffalin.github.io/drumkit/)  
+  
  
 
 <h2> 🤳 Connect with me:</h2>
