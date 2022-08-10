@@ -10,6 +10,8 @@
   - [Dog Website](https://triffalin.github.io/tindong/)
 - <b>Responsive Website(HTML, CSS, Bootstrap + JS)</b>
   - [Book Website](https://triffalin.github.io/book/)
+- <b>Dicee Game Website (HTML, CSS + JS)</b>
+  - [Dicee Game Website](https://triffalin.github.io/diceegame/)
 
 <h2> 🤳 Connect with me:</h2>
 
