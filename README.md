@@ -17,7 +17,7 @@
 - <b>Drum Kit Music Website (HTML, CSS + JS)</b>
   - [Drum Kit Music Website](https://triffalin.github.io/drumkit/)  
 - <b>The Game Of Colors (HTML, CSS, JS + jQuery)</b>
-  - [The Gane of Colors Website](https://triffalin.github.io/drumkit/)   
+  - [The Game of Colors Website](https://triffalin.github.io/drumkit/)   
 
 <h2> 🤳 Connect with me:</h2>
 
