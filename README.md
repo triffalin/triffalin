@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alin! <br/><a href="https://github.com/triffalin">Frontend Developer</a>
 
-<h2>👨‍💻 Frontend Development Projects:</h2>
+<h2>👨‍💻 Full-Stack Web Development Projects:</h2>
 
 - <b>How to create your CV (pure HTML)</b>
   - [My Personal CV](https://triffalin.github.io/cv/)
