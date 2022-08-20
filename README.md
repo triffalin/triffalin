@@ -23,7 +23,9 @@
 - <b>To Do List App (HTML, CSS, JS + Node Js Express + EJS + MongoDB, Mongoose + Heroku)</b>
   - [To Do List App](https://polar-island-34443.herokuapp.com/)
 - <b>Daily Journal Blog (HTML, CSS, JS + Node Js Express + EJS + MongoDB, Mongoose)</b>
-  - [Daily Journal Blog](https://github.com/triffalin/blogwebsite) 
+  - [Daily Journal Blog](https://github.com/triffalin/blogwebsite)
+- <b>Authentication & Security (HTML, CSS, JS, Express (express, express-session) + EJS + MongoDB, Mongoose (mongoose, mongoose-findorcreate) + another dependecies (body-parser, dotenv, passport, passport-google-oauth20, passport-local, passport-local-mongoose)</b>
+  - [Authentication & Security Website](https://github.com/triffalin/secrets)   
   
 
 <h2> 🤳 Connect with me:</h2>
