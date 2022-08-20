@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alin! <br/><a href="https://github.com/triffalin">Frontend Developer</a>
+<h1>Hi, I'm Alin! <br/><a href="https://github.com/triffalin">Full-Stack Web Developer</a>
 
 <h2>👨‍💻 Full-Stack Web Development Projects:</h2>
 
