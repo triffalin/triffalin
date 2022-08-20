@@ -21,7 +21,10 @@
 - <b>Nesletter Signup App (HTML, CSS, JS + Node Js Express + Heroku)</b>
   - [Newsletter Signup App](https://salty-gorge-41128.herokuapp.com/)
 - <b>To Do List App (HTML, CSS, JS + Node Js Express + EJS + MongoDB, Mongoose + Heroku)</b>
-  - [To Do List App](https://polar-island-34443.herokuapp.com/)  
+  - [To Do List App](https://polar-island-34443.herokuapp.com/)
+- <b>Daily Journal Blog (HTML, CSS, JS + Node Js Express + EJS + MongoDB, Mongoose)</b>
+  - [Daily Journal Blog](https://github.com/triffalin/blogwebsite) 
+  
 
 <h2> 🤳 Connect with me:</h2>
 
